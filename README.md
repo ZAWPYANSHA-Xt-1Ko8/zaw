@@ -1,4 +1,1 @@
-
-                                                    ^_^
-                                                    unfinished
-<img width="486" height="361" alt="Capture JNG" src="https://github.com/user-attachments/assets/fbf3635b-3032-461b-aa4c-9f16772fc5f8" />
+<img width="1366" height="728" alt="Capture" src="https://github.com/user-attachments/assets/6426127f-52eb-40aa-be08-bcea0d37cedd" />
