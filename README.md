@@ -1,1 +1,2 @@
-<img width="1366" height="728" alt="Capture" src="https://github.com/user-attachments/assets/6426127f-52eb-40aa-be08-bcea0d37cedd" />
+<img width="499" height="373" alt="cosmogg" src="https://github.com/user-attachments/assets/2f3de468-e485-4277-9ac1-c0b548efac3a" />
+
